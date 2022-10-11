@@ -1,4 +1,4 @@
-UpdateNotes|rvishwajith.github.com/updates/v
+PatchNotes|rvishwajith.github.com/updates/v
 UpdateFiles|http://drive.google.com/
 
 macOS-Arm|0.1.1|dj2dujf8cfjfwifj

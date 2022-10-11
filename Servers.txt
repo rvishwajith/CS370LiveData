@@ -1,0 +1,17 @@
+Server {
+	name: Local Server,
+	ipAddress: 127.0.0.1,
+	authPorts: 4000-4099
+}
+
+Server {
+	name: Central Texas,
+	ipAddress: 10.146.12.140,
+	authPorts: 4100-4299
+}
+
+Server {
+	name: California,
+	ipAddress: 10.146.13.136,
+	authPorts: 4100-4199
+}
