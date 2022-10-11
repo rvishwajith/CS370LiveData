@@ -1,0 +1,6 @@
+UpdateNotes|rvishwajith.github.com/updates/v
+UpdateFiles|http://drive.google.com/
+
+macOS-Arm|0.1.1|dj2dujf8cfjfwifj
+macOS-x64|0.1.1|dmflwfjlwdffj3if
+Windows-x64|0.1.1|8249r8uqaorjkj2oiw
